@@ -5,17 +5,17 @@ OkSetda (TOPIC) E-Attendance (PROJECT) Distribution Package/Application Release 
 ### Release (Latest)
 - [ ] Mobile App (Android)
 - [ ] Mobile App (iOS)
-- [ ] Desktop App (Armv7 - Raspberry PI)
+- [ ] Raspberry PI App (Armv7)
 
 ### Release (LTS)
 - [ ] Mobile App (Android)
 - [ ] Mobile App (iOS)
-- [ ] Embedded System (Armv7 - Raspberry PI)
+- [ ] Raspberry PI App (Armv7)
 
 ### Release (Development)
 - [ ] Mobile App (Android)
 - [ ] Mobile App (iOS)
-- [ ] Embedded System (Armv7 - Raspberry PI)
+- [ ] Raspberry PI App (Armv7)
 
 ### Documentations
 
